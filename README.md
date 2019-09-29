@@ -1,15 +1,15 @@
 This project was bootstrapped with [Vue CLI](https://cli.vuejs.org).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Available Scripts
+
+In the project directory, you can run:
+
+#### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
@@ -19,7 +19,7 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 The page will reload if you make edits.
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 yarn build
 ```
@@ -29,7 +29,7 @@ Builds the app for production to the `dist` folder.<br>
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-### Run your unit tests
+#### Run your unit tests
 ```
 yarn test:unit
 ```
