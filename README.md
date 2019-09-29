@@ -1,4 +1,8 @@
-# map-markers
+This project was bootstrapped with [Vue CLI](https://cli.vuejs.org).
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ## Project setup
 ```
@@ -7,28 +11,27 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
+
+Runs the app in the development mode.<br>
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
+The page will reload if you make edits.
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
 
-### Run your tests
-```
-yarn run test
-```
+Builds the app for production to the `dist` folder.<br>
 
-### Lints and fixes files
-```
-yarn run lint
-```
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
 ### Run your unit tests
 ```
-yarn run test:unit
+yarn test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Launches the test runner.

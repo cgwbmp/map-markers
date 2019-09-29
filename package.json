@@ -2,6 +2,10 @@
   "name": "map-markers",
   "version": "0.1.0",
   "private": true,
+  "description": "Placing markers on map",
+  "author": "Alena <cgwbmp@gmail.com>",
+  "homepage": "https://cgwbmp.github.io/rick-and-morty",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
