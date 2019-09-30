@@ -13,7 +13,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .hint {
   font-style: italic;
   color: #999;
